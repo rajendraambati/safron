@@ -1,0 +1,6 @@
+Flask
+selenium
+pandas
+beautifulsoup4
+requests
+openpyxl
